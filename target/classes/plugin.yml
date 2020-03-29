@@ -1,0 +1,6 @@
+name: SpigotPluginTemplate
+# change all of these attributes here, in your src, and in the pom.xml file accordingly!
+main: com.nameofyourchoice.spigotplugintemplate.SpigotPluginTemplate
+version: 1.0-SNAPSHOT
+# attribute below required for plugins 1.13+ (written as 1.13, 1.14, 1.15, etc)
+api-version: '1.15'
